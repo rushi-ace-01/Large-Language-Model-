@@ -8,8 +8,8 @@ A LLM is divide into three stages :
 ![llm](https://github.com/user-attachments/assets/48fdd0d5-f4d3-49dd-ae64-9f9f156f0c8d)
 
 
-##Stage 1:
-###Data preparatin and sampling:
+## Stage 1: Building an LLM
+### Data preparation and sampling:
 1. Creating Tokens
 2. Creating token IDS
 3. Adding special context tokens
@@ -19,7 +19,7 @@ A LLM is divide into three stages :
 7. Creating token embeddings
 8. Positional Embeddings
 
-###Attention Mechanism:
+### Attention Mechanism:
 
 ![image](https://github.com/user-attachments/assets/f25bfff9-f136-4eee-98b5-c65a2a468a05)
 
@@ -29,3 +29,13 @@ A LLM is divide into three stages :
 3. Compact self attention
 4. Casual attention
 5. Multi head attention
+
+## Stage 2: Foundation model
+1. Training Loop
+2. Model Evaluation
+3. Load Pre-trained weights
+
+## Stage 3: Finetuning 
+1. Finetuning for classification
+2. Finetuning for Instruction 
+
