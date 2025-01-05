@@ -5,7 +5,7 @@ Code contains every detailed steps mentioned in the book.
 
 A LLM is divide into three stages :
 
-![llm](https://github.com/user-attachments/assets/48fdd0d5-f4d3-49dd-ae64-9f9f156f0c8d)
+  ![llm](https://github.com/user-attachments/assets/48fdd0d5-f4d3-49dd-ae64-9f9f156f0c8d)
 
 
 ## Stage 1: Building an LLM
@@ -21,7 +21,7 @@ A LLM is divide into three stages :
 
 ### Attention Mechanism:
 
-![image](https://github.com/user-attachments/assets/f25bfff9-f136-4eee-98b5-c65a2a468a05)
+  ![image](https://github.com/user-attachments/assets/f25bfff9-f136-4eee-98b5-c65a2a468a05)
 
 
 1. Simplified Attention mechanism
