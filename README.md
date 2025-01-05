@@ -46,17 +46,17 @@ A LLM is divide into three stages :
 6. Finetuning model on supervised data
 
 ### Finetuning for Instruction 
-1.Preparing dataset<br/>
+&emsp; 1.Preparing dataset<br/>
   &emsp; a. Converting instructions to ALPACA Format<br/> 
   &emsp; b. Splitting dataset into train-test-validation <br/>
-2. Organizing data into training batches<br/>
-  &emsp; a. Creating target token ids for training<br/>
-  &emsp; b. Masking target token ids<br/>
-3. Creating Dataloaders<br/>
-4. Loading a pretrained LLM<br/>
-5. Finetuning LLM on instruction dataset<br/>
-6. Extracting and saving response<br/>
-7. Evaluating finetuned LLM<br/>
+&emsp; 2. Organizing data into training batches<br/>
+   &emsp; a. Creating target token ids for training<br/>
+   &emsp; b. Masking target token ids<br/>
+&emsp; 3. Creating Dataloaders<br/>
+&emsp; 4. Loading a pretrained LLM<br/>
+&emsp; 5. Finetuning LLM on instruction dataset<br/>
+&emsp; 6. Extracting and saving response<br/>
+&emsp; 7. Evaluating finetuned LLM<br/>
   
 
 
