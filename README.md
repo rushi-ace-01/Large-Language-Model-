@@ -4,6 +4,7 @@ This repository contains code for building a LLM from scratch.
 Code contains every detailed steps mentioned in the book.
 
 A LLM is divide into three stages :
+
 ![llm](https://github.com/user-attachments/assets/48fdd0d5-f4d3-49dd-ae64-9f9f156f0c8d)
 
 
