@@ -36,6 +36,26 @@ A LLM is divide into three stages :
 3. Load Pre-trained weights
 
 ## Stage 3: Finetuning 
-1. Finetuning for classification
-2. Finetuning for Instruction 
+### Finetuning for classification
+1. Downloading dataset
+2. Creating dataloaders
+3. Initializing model with pretrained weights
+4. Adding classification head
+5. Calculating loss and accuracy
+6. Finetuning model on supervised data
+
+### Finetuning for Instruction 
+1.Preparing dataset
+  > Converting instructions to ALPACA Format
+  > Splitting dataset into train-test-validation
+2. Organizing data into training batches
+  > Creating target token ids for training
+  > Masking target token ids
+3. Creating Dataloaders
+4. Loading a pretrained LLM
+5. Finetuning LLM on instruction dataset
+6. Extracting and saving response
+7. Evaluating finetuned LLM
+  
+
 
