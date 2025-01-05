@@ -53,10 +53,10 @@ A LLM is divide into three stages :
   a. Creating target token ids for training<br/>
   b. Masking target token ids<br/>
 3. Creating Dataloaders<br/>
-4. Loading a pretrained LLM
-5. Finetuning LLM on instruction dataset
-6. Extracting and saving response
-7. Evaluating finetuned LLM
+4. Loading a pretrained LLM<br/>
+5. Finetuning LLM on instruction dataset<br/>
+6. Extracting and saving response<br/>
+7. Evaluating finetuned LLM<br/>
   
 
 
