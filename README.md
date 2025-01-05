@@ -1,5 +1,6 @@
 # Large Language Model:
-I gained a deep understanding of LLM and its construction from the book "Building a LLM from scratch"- by Sebastian Raschka
+I gained a deep understanding of LLM and its construction from the book "Building a LLM from scratch"- by Sebastian Raschka.
+
 This repository contains code for building a LLM from scratch.
 Code contains every detailed steps mentioned in the book.
 
